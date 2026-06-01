@@ -1,0 +1,15 @@
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.exe
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.deps.json
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.runtimeconfig.json
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.runtimeconfig.dev.json
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.dll
+D:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\win10-x64\CopyCloud.pdb
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.csprojAssemblyReference.cache
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.csproj.CoreCompileInputs.cache
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.AssemblyInfoInputs.cache
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.AssemblyInfo.cs
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.dll
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.pdb
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\win10-x64\CopyCloud.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+﻿\Assets\_\*
+\Assets\Resources\*
+\Assets\list.txt
+\ProjectSettings\*
+\Library\*.asset

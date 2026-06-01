@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CopyCloud/1.0.0": {
+        "dependencies": {
+          "MegaApiClient": "1.10.4"
+        },
+        "runtime": {
+          "CopyCloud.dll": {}
+        }
+      },
+      "MegaApiClient/1.10.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MegaApiClient.dll": {
+            "assemblyVersion": "1.10.4.0",
+            "fileVersion": "1.10.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/10.0.2": {
+        "runtime": {
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.2.20802"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MegaApiClient/1.10.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T8xTy9nuLSFBb6qC2Ns79UclzKExxNrbt6sOtzMtJetdTBgOLTRkInoA+dFf6jgDWkuL5/4+L+/vKfqqb9M/Rg==",
+      "path": "megaapiclient/1.10.4",
+      "hashPath": "megaapiclient.1.10.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/10.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iwElSU2IXmwGvytJsezyDML2ZWDkG2JzTYzlU/BNlmzMdlmRvbnwITsGGY74gwVEpDli1UdOLkMT7/3jxWvXzA==",
+      "path": "newtonsoft.json/10.0.2",
+      "hashPath": "newtonsoft.json.10.0.2.nupkg.sha512"
+    }
+  }
+}

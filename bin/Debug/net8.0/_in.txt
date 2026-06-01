@@ -1,0 +1,5 @@
+d:\Projects\Unity\Sniper\Assets\_\*
+d:\Projects\Unity\Sniper\Assets\Resources\*
+d:\Projects\Unity\Sniper\Assets\list.txt
+d:\Projects\Unity\Sniper\ProjectSettings\*
+d:\Projects\Unity\Sniper\Library\*.asset

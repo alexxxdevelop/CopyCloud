@@ -1,0 +1,10 @@
+﻿*\bin\
+*\obj\
+*\.vs\
+*.csproj.user
+*\wwwroot\files\
+*\logs\
+*\packages\
+*\_install\*.exe
+*\list.txt
+\_db\

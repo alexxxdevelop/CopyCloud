@@ -1,0 +1,12 @@
+d:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\CopyCloud.deps.json
+d:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\CopyCloud.runtimeconfig.json
+d:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\CopyCloud.runtimeconfig.dev.json
+d:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\CopyCloud.dll
+d:\Projects\Me\CopyCloud\CopyCloud\bin\Release\netcoreapp2.1\CopyCloud.pdb
+d:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.csproj.CoreCompileInputs.cache
+d:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.AssemblyInfoInputs.cache
+d:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.AssemblyInfo.cs
+d:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.dll
+d:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.pdb
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.csprojAssemblyReference.cache
+D:\Projects\Me\CopyCloud\CopyCloud\obj\Release\netcoreapp2.1\CopyCloud.genruntimeconfig.cache
