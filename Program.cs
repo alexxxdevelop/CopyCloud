@@ -26,8 +26,8 @@ namespace CopyCloud
         {
             try
             {
-                string login = "alexxx.cloud7@yandex.ru";
-                string pass = "Aqwsxz13";
+                string login = "login";
+                string pass = "pass";
                 string pathAccount = PathCurrent + "account.json";
 
                 var api = new MegaApiClient();
